@@ -110,17 +110,17 @@
                   <div class="contenedor-campos">  
                       <div class="campo">
                           <label for="nombre">Nombre</label>
-                          <input name="nombre" class="input-text" type="text" placeholder="Tu Nombre">
+                          <input name="nombre" class="input-text" type="text" placeholder="Tu Nombre" required>
                       </div>
                       
                       <div class="campo">
                           <label for="telefono">Teléfono</label>
-                          <input name="telefono" class="input-text" type="tel" placeholder="Tu teléfono">
+                          <input name="telefono" class="input-text" type="tel" placeholder="Tu teléfono" required>
                       </div>
                               
                       <div class="campo">
                           <label for="email">Correo</label>
-                          <input name="email" class="input-text" type="email" placeholder="Tu email">
+                          <input name="email" class="input-text" type="email" placeholder="Tu email" required>
                       </div>
 
                       <div class="campo">
